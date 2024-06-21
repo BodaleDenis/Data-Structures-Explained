@@ -1,0 +1,8 @@
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/tasks.json
+Double_Linked_List/Double_Linked_List.exe
+Linked_Lists/Linked_List.exe
+Linked_Lists/build/Debug/Linked_List.o
+Linked_Lists/build/Debug/outDebug.exe
+Stack/Stack.exe
